@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melody</h1>
 <h3 align="center">There is the land where I develop all the incredible projects I'm working.</h3>
 
-- 🌱 I’m currently learning **Typescript** and working with **Next.js**
+- 🌱 I’m currently working with **Typescript** and **Next.js**
 
 - 👨‍💻 All of my repositories are available at [https://github.com/melodycious?tab=repositories](https://github.com/melodycious?tab=repositories)
 
